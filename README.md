@@ -158,14 +158,13 @@
 
 
 <!---This is my about me section--->
-<h2> 🔝 Top Contributed Repo </h2>
+<h2> <img src = "https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAyNjgzMDksIm5iZiI6MTc1MDI2ODAwOSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE4VDE3MzMyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkNzkzMWQ3MzhiMmJkNzE4NmU3ODRhOTIyOWJmMzAzMTMyOWFlOTZlOTQ2NjI0NjUwZDZkMzc5YzdiNGQ0NGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.JsbQd0wM-0yleo690H9H9ktJPi4-ehrb6n6hLBWCnlA" width = 25px height=25px> Top Contributed Repo </h2>
 <p align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=sumanulto&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 
 <!---This is my socials section--->
-<h2> 🌐 Socials: </h2>
 <p align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!;Keep+Coding+%F0%9F%92%BB;Star+if+you+like+my+work+%E2%AD%90" alt="Typing Footer">
   <br><br>
@@ -174,12 +173,12 @@
   <!-- Social Icons -->
   <kbd>
   <a href="https://github.com/sumanulto" target="_blank">
-    <img width = 25px height=25px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub" />
+    <img width = 25px height=25px src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" />
   </a>
   </kbd>
   <kbd>
   <a href="https://linkedin.com/in/sumanng" target="_blank">
-    <img width = 25px height=25px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
+    <img width = 25px height=25px src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" />
   </a>
   </kbd>
   <kbd>
