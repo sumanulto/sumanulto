@@ -122,10 +122,6 @@
   </kbd>
 </p>
 
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tizentitanium) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumanng) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Richard-Parker-306) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/tizentitanium)
-
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=sumanulto&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
@@ -135,6 +131,10 @@
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=sumanulto&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 🌐 Socials:
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!;Keep+Coding+%F0%9F%92%BB;Star+if+you+like+my+work+%E2%AD%90" alt="Typing Footer"> <br><br> <strong>Made with ❤️ by <a href="https://suman.kraftamine.com/">Suman Ghosh</a></strong><br> <a href="https://github.com/sumanulto">GitHub</a> • <a href="https://linkedin.com/in/sumanng">LinkedIn</a> • <a href="mailto:suman@example.com">Email</a><br> <br> <img src="https://visitcount.itsvg.in/api?id=sumanulto&label=Profile%20Views&color=12&icon=2&pretty=true" /> </p>
 
 ---
 
