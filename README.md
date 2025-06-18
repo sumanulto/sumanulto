@@ -166,7 +166,7 @@
 
 <!---This is my socials section--->
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Truculenta&size=48&pause=1000&color=1378F7FF&center=true&vCenter=true&width=535&lines=Thank+you+for+visiting!;Keep+Coding+%F0%9F%92%BB;Star+if+you+like+my+work+%E2%AD%90" alt="Typing Footer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Truculenta&size=48&pause=1000&color=1378F7FF&center=true&vCenter=true&width=535&height=60&lines=Thank+you+for+visiting!;Keep+Coding+%F0%9F%92%BB;Star+if+you+like+my+work+%E2%AD%90" alt="Typing Footer">
   <br><br>
   <strong>Made with ❤️ by <a href="https://suman.kraftamine.com/">Suman Ghosh</a></strong>
   <br><br>
