@@ -125,23 +125,23 @@
 <!---This is my about me section--->
 <h2 align="center"> 📊 GitHub Stats </h2>
 
-<table align="center" style="border: none; border-collapse: collapse;">
+<table align="center">
   <tr>
-    <td style="border: none; padding: 0 10px;">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=sumanulto&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true" />
     </td>
-    <td style="border: none; padding: 0 10px;">
+    <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=sumanulto&theme=ocean_dark&hide_border=false" />
     </td>
-    <td style="border: none; padding: 0 10px;">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanulto&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
     </td>
   </tr>
 </table>
 
-### 🔝 Top Contributed Repo
+### <h2 align="center"> 🔝 Top Contributed Repo </h2>
 
-![](https://github-contributor-stats.vercel.app/api?username=sumanulto&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img align="center" src="https://github-contributor-stats.vercel.app/api?username=sumanulto&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 ## 🌐 Socials:
 
