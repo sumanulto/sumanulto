@@ -15,7 +15,7 @@
     ➡️ 📷 I love photography, programming, data science and books<br>
   </td>
   <td>
-      <img height="150px" width="350px" src="https://i.ibb.co/s9MTrsv9/heya.png" alt="Standing" title="Standing"/> 
+      <img height="250px" width="258px" src="https://i.ibb.co/s9MTrsv9/heya.png" alt="Standing" title="Standing"/> 
   </td>
 </tr>
 </table>
