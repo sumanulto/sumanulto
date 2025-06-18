@@ -126,10 +126,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <table align="center" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td colspan="2" style="border: none;" align="center">
+    <tr>
+<td colspan="2" style="border: none;" align="center">
         <h3 align="center">Language Used</h3>
     </td>
+    </tr>
+  <tr>
     <td colspan="2" style="border: none;" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanulto&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
     </td>
@@ -141,6 +143,8 @@
   <td style="border: none;">
   <h3 align="center">Contribution</h3>
   </td>
+  </tr>
+<tr>
   <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=sumanulto&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true" />
     </td>
