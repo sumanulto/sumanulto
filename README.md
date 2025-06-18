@@ -6,7 +6,7 @@
 
 <h2 align="center">💫 About Me </h2>
 
-<table>
+<table align="center">
 <tr>
   <td>
     ➡️ 🎓 Currenty in  post-graduate from Kalinga Industrial Institute of Technology<br>
