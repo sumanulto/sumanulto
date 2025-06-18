@@ -42,6 +42,11 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
   </kbd>
  <kbd>
+  <kbd>Blockchain</kbd>
+   <br>
+  <br>
+  <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" />
+ </kbd>
   <kbd>
     <kbd>Front-end</kbd>
     <br>
