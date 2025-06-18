@@ -140,8 +140,8 @@
 </table>
 
 <!---This is my about me section--->
-<p align="center">
 <h2> 🔝 Top Contributed Repo </h2>
+<p align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=sumanulto&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
