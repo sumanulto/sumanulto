@@ -4,8 +4,23 @@
 
 </header>  
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<p align="center">
+💫 About Me  
+</p>
+
+<table>
+<tr>
+  <td>
+  - 🎓 Currenty in  post-graduate from Kalinga Industrial Institute of Technology
+- 👯 Looking to collaborate on projects that are using Python.
+- 🌟 2025's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📷 I love photography, programming, data science and books 
+  </td>
+  <td>
+      <img src="https://i.ibb.co/s9MTrsv9/heya.png" alt="Standing" title="Standing"/> 
+  </td>
+</tr>
+</table>
 
 
 ## 🌐 Socials:
