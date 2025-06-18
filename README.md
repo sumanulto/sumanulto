@@ -1,6 +1,6 @@
-<header align="left">
+<header align="center">
   
-![Your paragraph text (5)]([https://github.com/user-attachments/head.gif](https://i.ibb.co/B5K6hd6j/head.gif))
+![head image](https://i.ibb.co/B5K6hd6j/head.gif)
 
 </header>  
 
