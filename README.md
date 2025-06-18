@@ -127,16 +127,19 @@
 
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr>
-    <td style="border: none; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=sumanulto&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true" />
-    </td>
-    <td style="border: none; padding: 10px;">
+    <td colspan="2" style="border: none; padding: 10px;" align="center">
+    <h1 align="center">Language Used</h1>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanulto&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="border: none; padding: 10px;" align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=sumanulto&theme=ocean_dark&hide_border=false" />
+  <td style="border: none; padding: 10px;">
+    <h1 align="center">Stats</h1>
+      <img src="https://github-readme-stats.vercel.app/api?username=sumanulto&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true" />
+    </td>
+    <td style="border: none; padding: 10px;">
+    <h1 align="center">Contribution</h1>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=sumanulto&theme=ocean_dark&hide_border=false" />
     </td>
   </tr>
 </table>
