@@ -21,6 +21,7 @@
     </td>
 </tr>
 </table>
+<br>
 
 <!---This is my tech stack section--->
 <h2 align="center">💻 Tech Stack</h2>
@@ -121,6 +122,7 @@
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Webmin_Logo.svg/2048px-Webmin_Logo.svg.png" />
   </kbd>
 </p>
+<br>
 
 <!---This is my Github Status section--->
 <h2 align="center">📊 GitHub Stats</h2>
@@ -161,13 +163,22 @@
 <img src="https://github-contributor-stats.vercel.app/api?username=sumanulto&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
-## 🌐 Socials:
 
+<!---This is my socials section--->
+<h2> 🌐 Socials: </h2>
 <p align="center"> 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!;Keep+Coding+%F0%9F%92%BB;Star+if+you+like+my+work+%E2%AD%90" alt="Typing Footer"> 
-<br><br> 
-<strong>Made with ❤️ by <a href="https://suman.kraftamine.com/">Suman Ghosh</a></strong><br> 
-<a href="https://github.com/sumanulto">GitHub</a> • 
-<a href="https://linkedin.com/in/sumanng">LinkedIn</a> • 
-<a href="mailto:suman@example.com">Email</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!;Keep+Coding+%F0%9F%92%BB;Star+if+you+like+my+work+%E2%AD%90" alt="Typing Footer">
+  <br><br>
+  <strong>Made with ❤️ by <a href="https://suman.kraftamine.com/">Suman Ghosh</a></strong>
+  <br><br>
+  <!-- Social Icons -->
+  <a href="https://github.com/sumanulto" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/sumanng" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:suman@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
