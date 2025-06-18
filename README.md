@@ -140,8 +140,9 @@
 </table>
 
 ### <h2 align="center"> 🔝 Top Contributed Repo </h2>
-
-<img align="center" src="https://github-contributor-stats.vercel.app/api?username=sumanulto&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=sumanulto&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
 
 ## 🌐 Socials:
 
