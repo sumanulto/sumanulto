@@ -11,13 +11,13 @@
 <table align="center">
 <tr>
     <td>
-        <img height="250px" width="258px" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Umbrella" title="Umbrella"/> 
-    </td>
-    <td>
         ➡️ 🎓 Currenty in  post-graduate from Kalinga Industrial Institute of Technology<br>
         ➡️ 👯 Looking to collaborate on projects that are using Python.<br>
         ➡️ 🌟 2025's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
         ➡️ 📷 I love photography, programming, data science and books<br>
+    </td>
+    <td>
+        <img height="250px" width="258px" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Umbrella" title="Umbrella"/> 
     </td>
 </tr>
 </table>
