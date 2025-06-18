@@ -128,13 +128,18 @@
 <table align="center">
   <tr>
     <td>
+    <h2 align="center"> 📊 GitHub Stats </h2>
       <img src="https://github-readme-stats.vercel.app/api?username=sumanulto&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true" />
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=sumanulto&theme=ocean_dark&hide_border=false" />
-    </td>
-    <td>
+    <h2 align="center"> 📊 GitHub Stats </h2>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanulto&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <h2 align="center"> 📊 GitHub Stats </h2>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=sumanulto&theme=ocean_dark&hide_border=false" />
     </td>
   </tr>
 </table>
@@ -147,4 +152,11 @@
 
 ## 🌐 Socials:
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!;Keep+Coding+%F0%9F%92%BB;Star+if+you+like+my+work+%E2%AD%90" alt="Typing Footer"> <br><br> <strong>Made with ❤️ by <a href="https://suman.kraftamine.com/">Suman Ghosh</a></strong><br> <a href="https://github.com/sumanulto">GitHub</a> • <a href="https://linkedin.com/in/sumanng">LinkedIn</a> • <a href="mailto:suman@example.com">Email</a><br> <br> <img src="https://visitcount.itsvg.in/api?id=sumanulto&label=Profile%20Views&color=12&icon=2&pretty=true" /> </p>
+<p align="center"> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!;Keep+Coding+%F0%9F%92%BB;Star+if+you+like+my+work+%E2%AD%90" alt="Typing Footer"> 
+<br><br> 
+<strong>Made with ❤️ by <a href="https://suman.kraftamine.com/">Suman Ghosh</a></strong><br> 
+<a href="https://github.com/sumanulto">GitHub</a> • 
+<a href="https://linkedin.com/in/sumanng">LinkedIn</a> • 
+<a href="mailto:suman@example.com">Email</a>
+</p>
