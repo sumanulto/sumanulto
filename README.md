@@ -11,7 +11,7 @@
 <table align="center">
 <tr>
     <td>
-        <img height="250px" width="258px" src="https://i.ibb.co/S77bFrsG/umbrella.png" alt="Umbrella" title="Umbrella"/> 
+        <img height="250px" width="258px" src="https://i.ibb.co/s9MTrsv9/heya.png" alt="Umbrella" title="Umbrella"/> 
     </td>
     <td>
         ➡️ 🎓 Currenty in  post-graduate from Kalinga Industrial Institute of Technology<br>
