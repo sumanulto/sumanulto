@@ -122,7 +122,7 @@
   </kbd>
 </p>
 
-<!---This is my about me section--->
+<!---This is my Github Status section--->
 <h2 align="center"> 📊 GitHub Stats </h2>
 
 <table align="center">
@@ -139,8 +139,9 @@
   </tr>
 </table>
 
-### <h2 align="center"> 🔝 Top Contributed Repo </h2>
+<!---This is my about me section--->
 <p align="center">
+<h2> 🔝 Top Contributed Repo </h2>
 <img src="https://github-contributor-stats.vercel.app/api?username=sumanulto&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
