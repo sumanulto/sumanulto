@@ -126,17 +126,17 @@
 <h2 align="center"> 📊 GitHub Stats </h2>
 
 <table align="center">
-<tr>
+  <tr>
     <td>
-        ![](https://github-readme-stats.vercel.app/api?username=sumanulto&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true)
+      <img src="https://github-readme-stats.vercel.app/api?username=sumanulto&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true" />
     </td>
     <td>
-        ![](https://nirzak-streak-stats.vercel.app/?user=sumanulto&theme=ocean_dark&hide_border=false)
+      <img src="https://nirzak-streak-stats.vercel.app/?user=sumanulto&theme=ocean_dark&hide_border=false" />
     </td>
     <td>
-        ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanulto&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanulto&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
     </td>
-</tr>
+  </tr>
 </table>
 
 ### 🔝 Top Contributed Repo
