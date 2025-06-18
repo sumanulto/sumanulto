@@ -115,10 +115,10 @@
     <br>
     <br>
     <img width="30px" src="https://www.svgrepo.com/show/306557/pi-hole.svg" />
-    <img width="30px" src="https://www.logo.wine/a/logo/WireGuard/WireGuard-Icon-Logo.wine.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+    <img width="30px" src="https://getumbrel.github.io/umbrel-apps-gallery/wireguard/icon.svg" />
+    <img width="30px" src="https://images.vexels.com/media/users/3/196892/isolated/preview/0c72d10e953e8c4007864cca5bbf1a6b-pterodactyl-dinosaur-silhouette.png" />
+    <img width="30px" src="https://images.seeklogo.com/logo-png/45/2/plex-tv-logo-png_seeklogo-450440.png" />
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Webmin_Logo.svg/2048px-Webmin_Logo.svg.png" />
   </kbd>
 </p>
 
