@@ -6,7 +6,7 @@
 </header>  
 
 <!---This is my about me section--->
-<h2 align="center"><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 25px height=25px> Get to know about me😁</h2>
+<h2 align="center"><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 25px height=25px> Get to know <a href="https://suman.kraftamine.com/">about me</a>😁</h2>
 
 <table align="center">
 <tr>
