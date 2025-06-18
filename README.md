@@ -123,22 +123,19 @@
 </p>
 
 <!---This is my Github Status section--->
-<h2 align="center"> 📊 GitHub Stats </h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<table align="center">
+<table align="center" style="border: none; border-collapse: collapse;">
   <tr>
-    <td>
-    <h2 align="center"> 📊 GitHub Stats </h2>
+    <td style="border: none; padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api?username=sumanulto&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true" />
     </td>
-    <td>
-    <h2 align="center"> 📊 GitHub Stats </h2>
+    <td style="border: none; padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanulto&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
     </td>
   </tr>
   <tr>
-    <td>
-    <h2 align="center"> 📊 GitHub Stats </h2>
+    <td colspan="2" style="border: none; padding: 10px;" align="center">
       <img src="https://nirzak-streak-stats.vercel.app/?user=sumanulto&theme=ocean_dark&hide_border=false" />
     </td>
   </tr>
