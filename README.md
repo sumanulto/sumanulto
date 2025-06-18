@@ -127,17 +127,17 @@
 
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr>
-    <td colspan="2" style="border: none; padding: 10px;" align="center">
+    <td colspan="2" style="border: none;" align="center">
     <h3 align="center">Language Used</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanulto&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
     </td>
   </tr>
   <tr>
-  <td style="border: none; padding: 10px;">
+  <td style="border: none;">
     <h3 align="center">Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=sumanulto&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true" />
     </td>
-    <td style="border: none; padding: 10px;">
+    <td style="border: none;">
     <h3 align="center">Contribution</h3>
     <img src="https://nirzak-streak-stats.vercel.app/?user=sumanulto&theme=ocean_dark&hide_border=false" />
     </td>
