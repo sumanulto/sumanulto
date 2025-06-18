@@ -127,32 +127,33 @@
 
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr>
-    <td colspan="2" align="center" style="border: none; padding: 4px;">
-      <div style="font-size: 16px; font-weight: bold; margin: 0; padding: 0;">Languages Used</div>
+    <td colspan="2" align="center" style="border: none; padding: 6px;">
+      <div style="font-size: 18px; font-weight: 700; margin: 0; padding: 0;">🚀 Languages Used</div>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" style="border: none; padding: 4px;">
+    <td colspan="2" align="center" style="border: none; padding: 6px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanulto&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
     </td>
   </tr>
   <tr>
-    <td align="center" style="border: none; padding: 4px;">
-      <div style="font-size: 16px; font-weight: bold; margin: 0;">Stats</div>
+    <td align="center" style="border: none; padding: 6px;">
+      <div style="font-size: 18px; font-weight: 700; margin: 0;">📈 Stats</div>
     </td>
-    <td align="center" style="border: none; padding: 4px;">
-      <div style="font-size: 16px; font-weight: bold; margin: 0;">Contribution</div>
+    <td align="center" style="border: none; padding: 6px;">
+      <div style="font-size: 18px; font-weight: 700; margin: 0;">🔥 Contributions</div>
     </td>
   </tr>
   <tr>
-    <td align="center" style="border: none; padding: 4px;">
+    <td align="center" style="border: none; padding: 6px;">
       <img src="https://github-readme-stats.vercel.app/api?username=sumanulto&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true" />
     </td>
-    <td align="center" style="border: none; padding: 4px;">
+    <td align="center" style="border: none; padding: 6px;">
       <img src="https://nirzak-streak-stats.vercel.app/?user=sumanulto&theme=ocean_dark&hide_border=false" />
     </td>
   </tr>
 </table>
+
 
 <!---This is my about me section--->
 <h2> 🔝 Top Contributed Repo </h2>
