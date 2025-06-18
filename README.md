@@ -172,13 +172,19 @@
   <strong>Made with ❤️ by <a href="https://suman.kraftamine.com/">Suman Ghosh</a></strong>
   <br><br>
   <!-- Social Icons -->
+  <kbd>
   <a href="https://github.com/sumanulto" target="_blank">
     <img width = 25px height=25px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub" />
   </a>
+  </kbd>
+  <kbd>
   <a href="https://linkedin.com/in/sumanng" target="_blank">
     <img width = 25px height=25px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
   </a>
+  </kbd>
+  <kbd>
   <a href="mailto:suman@example.com">
     <img width = 25px height=25px src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Email" />
   </a>
+  </kbd>
 </p>
