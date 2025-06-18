@@ -4,17 +4,15 @@
 
 </header>  
 
-<p align="center">
-💫 About Me  
-</p>
+<h2 align="center">💫 About Me
 
 <table>
 <tr>
   <td>
-  - 🎓 Currenty in  post-graduate from Kalinga Industrial Institute of Technology
-- 👯 Looking to collaborate on projects that are using Python.
-- 🌟 2025's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📷 I love photography, programming, data science and books 
+    ➡️ 🎓 Currenty in  post-graduate from Kalinga Industrial Institute of Technology<br>
+    ➡️ 👯 Looking to collaborate on projects that are using Python.<br>
+    ➡️ 🌟 2025's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+    ➡️ 📷 I love photography, programming, data science and books<br>
   </td>
   <td>
       <img src="https://i.ibb.co/s9MTrsv9/heya.png" alt="Standing" title="Standing"/> 
