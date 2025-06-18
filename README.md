@@ -125,31 +125,31 @@
 <!---This is my Github Status section--->
 <h2 align="center">📊 GitHub Stats</h2>
 
-<table align="center">
-    <tr>
-<td colspan="2" align="center">
-        <h3 align="center">Language Used</h3>
-    </td>
-    </tr>
+<table align="center" style="border: none; border-collapse: collapse;">
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="2" align="center" style="border: none; padding: 4px;">
+      <div style="font-size: 16px; font-weight: bold; margin: 0; padding: 0;">Languages Used</div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="border: none; padding: 4px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanulto&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
     </td>
   </tr>
   <tr>
-  <td>
-  <h3 align="center">Stats</h3>
-  </td>
-  <td>
-  <h3 align="center">Contribution</h3>
-  </td>
+    <td align="center" style="border: none; padding: 4px;">
+      <div style="font-size: 16px; font-weight: bold; margin: 0;">Stats</div>
+    </td>
+    <td align="center" style="border: none; padding: 4px;">
+      <div style="font-size: 16px; font-weight: bold; margin: 0;">Contribution</div>
+    </td>
   </tr>
-<tr>
-  <td>
+  <tr>
+    <td align="center" style="border: none; padding: 4px;">
       <img src="https://github-readme-stats.vercel.app/api?username=sumanulto&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true" />
     </td>
-    <td>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=sumanulto&theme=ocean_dark&hide_border=false" />
+    <td align="center" style="border: none; padding: 4px;">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=sumanulto&theme=ocean_dark&hide_border=false" />
     </td>
   </tr>
 </table>
