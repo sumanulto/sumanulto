@@ -1,22 +1,24 @@
+<!---This is the head image--->
 <header align="center">
   
 ![head image](https://i.ibb.co/B5K6hd6j/head.gif)
 
 </header>  
 
-<h2 align="center">💫Get to know about me😁</h2>
+<!---This is my about me section--->
+<h2 align="center"><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 25px height=25px> Get to know about me😁</h2>
 
 <table align="center">
 <tr>
-  <td>
-    ➡️ 🎓 Currenty in  post-graduate from Kalinga Industrial Institute of Technology<br>
-    ➡️ 👯 Looking to collaborate on projects that are using Python.<br>
-    ➡️ 🌟 2025's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
-    ➡️ 📷 I love photography, programming, data science and books<br>
-  </td>
-  <td>
-      <img height="250px" width="258px" src="https://i.ibb.co/s9MTrsv9/heya.png" alt="Standing" title="Standing"/> 
-  </td>
+    <td>
+        <img height="250px" width="258px" src="https://i.ibb.co/S77bFrsG/umbrella.png" alt="Umbrella" title="Umbrella"/> 
+    </td>
+    <td>
+        ➡️ 🎓 Currenty in  post-graduate from Kalinga Industrial Institute of Technology<br>
+        ➡️ 👯 Looking to collaborate on projects that are using Python.<br>
+        ➡️ 🌟 2025's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+        ➡️ 📷 I love photography, programming, data science and books<br>
+    </td>
 </tr>
 </table>
 
