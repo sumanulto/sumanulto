@@ -4,7 +4,7 @@
 
 </header>  
 
-<h2 align="center">💫 About Me </h2>
+<h2 align="center">💫Get to know about me😁</h2>
 
 <table align="center">
 <tr>
