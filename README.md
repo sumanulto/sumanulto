@@ -12,7 +12,7 @@
 <tr>
     <td>
         ➡️ 🎓 Currenty in  post-graduate from Kalinga Industrial Institute of Technology<br>
-        ➡️ 👯 Looking to collaborate on projects that are using Python.<br>
+        ➡️ 👯 Looking to collaborate on projects.<br>
         ➡️ 🌟 2025's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
         ➡️ 📷 I love photography, programming, data science and books<br>
     </td>
