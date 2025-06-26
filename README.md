@@ -118,7 +118,7 @@
     <img width="30px" src="https://www.svgrepo.com/show/306557/pi-hole.svg" />
     <img width="30px" src="https://getumbrel.github.io/umbrel-apps-gallery/wireguard/icon.svg" />
     <img width="30px" src="https://images.vexels.com/media/users/3/196892/isolated/preview/0c72d10e953e8c4007864cca5bbf1a6b-pterodactyl-dinosaur-silhouette.png" />
-    <img width="30px" src="https://static-00.iconduck.com/assets.00/nextcloud-icon-512x512-9r19op3c.png" />
+    <img width="30px" src="https://images.icon-icons.com/1381/PNG/512/nextcloud_94374.png" />
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Webmin_Logo.svg/2048px-Webmin_Logo.svg.png" />
   </kbd>
 </p>
